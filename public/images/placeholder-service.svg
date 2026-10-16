@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Image placeholder">
+  <defs>
+    <linearGradient id="ph-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef2f4"/>
+      <stop offset="1" stop-color="#e1e8ec"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#ph-bg)"/>
+  <g transform="translate(320 158)" fill="none" stroke="#a7b3bb" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-66" y="-46" width="132" height="92" rx="10"/>
+    <circle cx="-30" cy="-14" r="12" fill="#a7b3bb" stroke="none"/>
+    <path d="M-66 32 L-22 -8 L8 20 L32 0 L66 28"/>
+  </g>
+  <text x="320" y="266" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" letter-spacing="3" fill="#94a1a9">IMAGE PLACEHOLDER</text>
+</svg>
